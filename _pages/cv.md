@@ -11,31 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Theoretical Physics, Universidad Autonoma de Madrid, Spain, 2017
+* M.S. in Physics, Sapienza University of Rome, Italy, 2013
+* B.S. in Physics, Sapienza University of Rome, Italy 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-current: Research Fellow
+  * INFN-Turin
+  * Supervisor: Professor M. Panero
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09-11/2016: Short Term Visitor
+  * Higgs Centre for Theoretical Physics/University of Edinburgh, UK
+  * Supervisor: Prof. L. Del Debbio and Dr. G. Cossu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
