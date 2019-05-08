@@ -24,7 +24,66 @@ Work experience
 * 09-11/2016: Short Term Visitor
   * Higgs Centre for Theoretical Physics/University of Edinburgh, UK
   * Supervisor: Prof. L. Del Debbio and Dr. G. Cossu
-  
+
+International Schools
+======
+* 2016 Lectures on the Theory of Fundamental Interactions, GGI, Florence, Italy.
+  * Early Universe (P. Creminelli, ICTP)
+  * QFT beyond perturbation theory (L. Giusti, Milano Bicocca U. and INFN)
+  * Effective Field Theories (D. B. Kaplan, U. of Washington and INT, Seattle)
+  * Flavor Physics (Y. Nir, Weizmann Inst.)
+  * Dark Matter (S. Profumo, UC, Santa Cruz)
+  * QCD and Collider Physics (M. Schwartz, Harvard U.)
+
+* 2015 Lattice Practices 2015, Forschungszentrum Jülich Supercomputing Centre, Jülich, Germany.
+  * Data analysis (C. Hölbling, Wuppertal U.)
+  * Solvers (A. Frommer and K. Kahl, Wuppertal U.)
+  * Performance Optimization (G. Koutsou, Cyprus Institute)
+  * Computer Architectures (D.Pleiter, JSC/Regensburg U.)
+  * Valence techniques (A. Vaquero, INFN)
+  * Finite temperature QCD (K. Szabo, JSC/Wuppertal U.)2014 Lectures on Lattice, VII Parma International School of 
+
+* Theoretical Physics, Parma, Italy.
+  * Introduction to lattice field theories (L. Del Debbio, Edinburgh)
+  * Numerical Methods for lattice QCD (S. Schaefer, DESY NIC)
+  * Lattice Heavy Flavor Physics and Standard Model (M. Della Morte, Odense)
+  * QCD thermodynamics (O. Philipsen, Frankfurt)
+  * Graphene, Topological Insulators and Weyl Semi-metals (P. Buividovich, Regensburg)  
+
+PhD Courses
+======
+* 2016 Advanced topics on Renormalization, by A. Vladikas.
+* 2015 Anomalies, by M.A. Vasquez Mozo.
+* 2015 Introduction to String Theory, by A. Uranga.
+* 2015 Application of Conformal Field Theory, by G. Sierra.
+* 2015 Introduction to Supersymmetry, by L. Fogliani.
+
+Online Certified Courses
+======
+* 2019 Complete Guide to TensorFlow for Deep Learning with Python. Udemy. 
+* 2019 Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning. Coursera.
+* 2019 Deep Learning Specialization
+  * Neural Network and Deep Learning
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  * Structuring Machine Learning Projects
+  * Convolutional Neural Networks
+  * Sequence Models [test]
+
+Workshop and Conferences
+=====
+* 2017 SM&FT 2017, Centro Polifunzionale UniBA, Bari, IT.
+     The 17th Workshop on Statistical Mechanics and Non-Perturbative Field Theory
+* 2016 Lattice 2016, University of Southampton, Southampton, UK.
+     The 34th International Symposium on Lattice Field Theory
+* 2015 IV Postgraduate Meeting on Theoretical Physics, IFT-CSIC/UAM, Madrid, Spain.
+* 2015 Lattice 2015, Kobe International Conference Center, Kobe, Japan.
+     The 33rd International Symposium of Lattice Field Theory
+* 2015 eNLarge Horizons, IFT-CSIC/UAM, Madrid, Spain.
+
+Master Thesis Co-advised
+===== 
+* 2018 "Non-Perturbative Renormalization of Tensor Currents", Leonardo Chimirri, UniTo, University of Turin, Italy.
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -43,6 +102,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Language Skills
+=====
+* Italian - Native
+* English - Fluent 
+* Spanish - Intermediate
+* Russian - Elementary
+
+Technical Skills
+=====
+* OS: Windows, Linux, Mac OS
+* HPC experience: Galileo (CINECA), Marconi (CINECA), Altamira (IFCA), FinisTerrae2 (CESGA) 
+* Coding: C/C++, Bash, MatLab, Mathematica, Perl, Python, TensorFlow
+* Utility: LaTeX, Git, Docker, Keynote
