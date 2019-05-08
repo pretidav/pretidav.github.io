@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am an INFN (National Institute of Nuclear Physics) Research Fellow based in Turin. 
+
 Research Interests
 ======
 * Lattice Field Theories, especially Lattice QCD
@@ -36,7 +38,7 @@ branched out my interests to several different aspects of gauge theories, focusi
 implementation and exploration of a UV complete partial composite Higgs scenario based on an SU(4) gauge
 group and fermions in multiple representation. Given the UV completeness of the model under investigation, it
 constitutes a perfect candidate to be studied on the lattice. Strictly related to this project, I am also contributing
-to the advancement of GRID: a new generation c++ library for lattice simulation mainly developed by the
+to the advancement of GRID: a new generation C++ library for lattice simulation mainly developed by the
 Edinburgh Lattice group. In parallel with the latter project I am active in the development of new algorithms inspired by the "multi-level" to improve the precision in spectroscopy of both fundamental and excited bound states on the lattice. I am
 also recently fascinated by the possibility of numerical simulations of quantum gravity on the lattice. While this
 problem is notoriously very intricate, a lattice exploration can be fundamental to establish non-perturbatively the
