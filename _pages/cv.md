@@ -27,6 +27,16 @@ Work experience
 
 International Schools
 ======
+* CINECA - 15th Advanced School on Parallel Computing
+  * Introduction to massively parallel architectures (Cavazzoni/Emerson, CINECA)
+  * Software Engineering for HPC (Ciancarini, CINI)
+  * Cineca HPC systems (Marani, CINECA)
+  * Introduction to GPU Programming (Bonfá, CINECA)
+  * Accelerated programming models: CUDA, OpenACC, CUDAFortran (E4/Arm) 
+  * ARM architecture and Ecosystem (Arm)
+  * Compilers and Tools + Optimisation and Performance (Arm) 
+  * Python for HPC (Spallanzani, CINECA)
+
 * 2016 Lectures on the Theory of Fundamental Interactions, GGI, Florence, Italy.
   * Early Universe (P. Creminelli, ICTP)
   * QFT beyond perturbation theory (L. Giusti, Milano Bicocca U. and INFN)
