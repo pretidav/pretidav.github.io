@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Light and strange quark masses from Nf=2+1 simulations with Wilson fermions"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink:  
+excerpt: 'Authors: M. Bruno, I. Campos, J. Koponen, C. Pena, D. Preti, A. Ramos, A. Vladikas'
+date: 2019-10-03
+venue: 'PoS SISSA'
+paperurl: 'https://arxiv.org/pdf/1903.04094.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Authors: M. Bruno, I. Campos, J. Koponen, C. Pena, D. Preti, A. Ramos, A. Vladika
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+We present a nearly final analysis of the u/d and s quark masses, extracted using the PCAC quark
+masses reported in [PRD 95 (2017) 074504]. The data is based on the CLS Nf = 2+1 simulations with Wilson/Clover quarks and Lüscher-Weisz gauge action, at four β values (i.e. lattice spacings) and a range of quark masses. We use the ALPHA results of [EPJC 78 (2018) 387] for non-perturbative quark mass renormalisation and RG-running from hadronic to electroweak scales in the Schrödinger Functional scheme. Quark masses are quoted both in the MS scheme and as RGI quantities.
