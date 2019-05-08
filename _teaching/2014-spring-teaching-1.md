@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant - Physics for Biology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universidad Autonoma de Madrid, Department of Physics"
+date: 2015/2016
+location: "Madrid, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lectures on the introduction to statistical data analysis including:
+- hypothesis testing 
+- regressions 
+- error propagation 
+- analysis of statistically correlated data)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As well as assistence with experiments in laboratory 
