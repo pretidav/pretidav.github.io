@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Preti, PhD"
+title                    : "David Preti"
 title_separator          : "-"
-name                     : &name "David Preti, PhD"
-description              : &description "Doctor in Theoretical Physics"
+name                     : &name "David Preti"
+description              : &description "PhD in Theoretical Physics"
 url                      : https://pretidav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pretidav.github.io"
