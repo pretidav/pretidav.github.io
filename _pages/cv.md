@@ -60,14 +60,14 @@ PhD Courses
 
 Online Certified Courses
 ======
-* 2019 Complete Guide to TensorFlow for Deep Learning with Python. Udemy. 
-* 2019 Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning. Coursera.
-* 2019 Deep Learning Specialization
-  * Neural Network and Deep Learning
-  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  * Structuring Machine Learning Projects
-  * Convolutional Neural Networks
-  * Sequence Models [test]
+* 2019 Complete Guide to TensorFlow for Deep Learning with Python. [Certificate](https://www.udemy.com/certificate/UC-85FQCVLL/) 
+* 2019 Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning. [Certificate](https://www.coursera.org/account/accomplishments/verify/HL6TRW4VFY4Q)
+* 2019 Deep Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/B34L5ZNWMVNW)
+  * Neural Network and Deep Learning [Certificate](https://www.coursera.org/account/accomplishments/verify/J4NHU53VGVZ2)
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [Certificate](https://www.coursera.org/account/accomplishments/verify/6HB3UY78HB4F)
+  * Structuring Machine Learning Projects [Certificate](https://www.coursera.org/account/accomplishments/verify/FZVRWWN3JQ86)
+  * Convolutional Neural Networks [Certificate](https://www.coursera.org/account/accomplishments/verify/VNQAUBDPPJQX)
+  * Sequence Models [Certificate](https://www.coursera.org/account/accomplishments/verify/85A5PTUY46LR)
 
 Workshop and Conferences
 =====
