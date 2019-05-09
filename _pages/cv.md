@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://academicpages.github.io/files/Academic_CV_PRETI_DAVID.pdf)
+[Download CV here](http://pretidav.github.io/files/Academic_CV_PRETI_DAVID.pdf)
 
 Education
 ======
