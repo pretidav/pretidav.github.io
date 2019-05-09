@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://academicpages.github.io/files/Academic_CV_PRETI_DAVID.pdf)
+
 Education
 ======
 * Ph.D in Theoretical Physics, Universidad Autonoma de Madrid, Spain, 2017
