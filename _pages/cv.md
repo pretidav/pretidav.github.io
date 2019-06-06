@@ -72,6 +72,7 @@ PhD Courses
 
 Online Certified Courses
 ======
+* 2019 Python for Computer Vision with OpenCV and Deep Learning. [Certificate](https://www.udemy.com/certificate/UC-QJ20FPJW/)
 * 2019 NLP - Natural Language Processing with Python. [Certificate](https://www.udemy.com/certificate/UC-4KB3IIIG/)
 * 2019 Complete Guide to TensorFlow for Deep Learning with Python. [Certificate](https://www.udemy.com/certificate/UC-85FQCVLL/) 
 * 2019 Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning. [Certificate](https://www.coursera.org/account/accomplishments/verify/HL6TRW4VFY4Q)
