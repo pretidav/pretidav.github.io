@@ -20,13 +20,17 @@ Education
 
 Work experience
 ======
-* 2017-current: Research Fellow
+* 2017-current: Postdoctoral Research Fellow
   * INFN-Turin
-  * Supervisor: Professor M. Panero
+  * Supervisor: Prof. M. Panero
 
 * 09-11/2016: Short Term Visitor
   * Higgs Centre for Theoretical Physics/University of Edinburgh, UK
   * Supervisor: Prof. L. Del Debbio and Dr. G. Cossu
+
+* 2014-2017: Predoctoral Research Fellow
+  * CSIC-IFT/UAM - Madrid
+  * Supervisor: Prof. C. Pena
 
 International Schools
 ======
