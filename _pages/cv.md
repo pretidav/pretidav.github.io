@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (long format) here](http://pretidav.github.io/files/Academic_CV_PRETI_DAVID.pdf
+[Download CV (long format) here](http://pretidav.github.io/files/Academic_CV_PRETI_DAVID.pdf)
 
 [Download CV (short format) here](http://pretidav.github.io/files/CV_PRETI_DAVID_short.pdf)
 
