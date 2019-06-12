@@ -10,7 +10,9 @@ redirect_from:
 
 I am an INFN (National Institute of Nuclear Physics) Research Fellow based in Turin. 
 
-[Download CV here](http://pretidav.github.io/files/Academic_CV_PRETI_DAVID.pdf)
+[Download my CV (long version) here](http://pretidav.github.io/files/Academic_CV_PRETI_DAVID.pdf)
+
+[Download my CV (short version) here](http://pretidav.github.io/files/CV_PRETI_DAVID_short.pdf)
 
 Research Interests
 ======
